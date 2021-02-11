@@ -1,0 +1,12 @@
+.bg-dark {
+    background-color:rgba(143, 62, 48, .7);
+}
+
+.bg-light {
+    background-color: #a7aa82;
+}
+
+.rounded {
+    border-radius: 10px;
+}
+

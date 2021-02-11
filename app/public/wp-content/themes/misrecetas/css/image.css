@@ -1,0 +1,7 @@
+/*si las imagenes no son iguales puedes ajustarlo de forma responsive con el vh o vw*/
+
+.img-med {
+    max-width: 100%;
+    height: auto;
+    user-select: none;
+}

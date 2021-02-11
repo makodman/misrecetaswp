@@ -1,0 +1,26 @@
+.btn {
+    padding: .3em .6em;
+    border:none;
+}
+
+
+.btn-prim {
+    background-color:rgba(143, 62, 48, .7);
+    color:#EDECE8;
+}
+
+.btn-prim:hover {
+    background-color: rgba(212, 212, 212, .8);
+    color:#000;
+    cursor:pointer;
+}
+
+.btn-sec {
+    background-color: orange;
+}
+
+.btn-sec:hover {
+    background-color: #aaa;
+    color:chartreuse;
+    cursor:pointer;
+}
