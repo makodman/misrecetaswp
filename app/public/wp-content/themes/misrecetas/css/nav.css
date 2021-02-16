@@ -3,10 +3,6 @@
     color: grey;
 }
 
-.nav-main li {
-    margin-right: .5em;
-}
-
 .nav-main a{
     color: black;
 }
@@ -17,4 +13,17 @@
 
 .nav-main .separator {
     color: #ccc;
+}
+
+.nav-main span {
+    margin: 0 .5em;
+}
+
+.nav-main li:last-child span {
+    display:none;
+}
+
+.nav-main .current-menu-item a {
+    color: #ccc;
+    pointer-events: none;
 }

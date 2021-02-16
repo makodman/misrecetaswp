@@ -1,0 +1,301 @@
+[11-Feb-2021 18:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_nav_manus() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php:2
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-settings.php(525): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-config.php(77): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-load.php(37): require_once('C:\\Users\\nacho\\...')
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\nacho\\...')
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-admin\index.php(10): require_once('C:\\Users\\nacho\\...')
+#5 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 2
+[11-Feb-2021 18:49:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_nav_manus() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php:2
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-settings.php(525): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-config.php(77): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-load.php(37): require_once('C:\\Users\\nacho\\...')
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(13): require_once('C:\\Users\\nacho\\...')
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#5 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 2
+[11-Feb-2021 18:56:36 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 10
+[11-Feb-2021 18:56:48 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 18:56:48 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 18:57:45 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 18:57:45 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:00:25 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:00:26 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:00:28 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:00:28 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:01:25 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:01:25 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:01:26 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:01:26 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:03:01 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:03:02 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:03:28 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:03:28 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:03:47 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:03:47 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:04:13 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:04:13 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:04:13 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:04:14 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:04:14 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:04:14 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:07:57 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:07:57 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:09:21 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 10
+[11-Feb-2021 19:09:21 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 10
+[11-Feb-2021 19:09:36 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:09:36 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:14 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:15 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:15 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:15 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:16 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:16 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:26 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:26 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:27 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:27 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:27 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:27 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:34 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:10:34 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:17:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 8
+[11-Feb-2021 19:17:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 8
+[11-Feb-2021 19:17:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 8
+[11-Feb-2021 19:18:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 8
+[11-Feb-2021 19:18:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 8
+[11-Feb-2021 19:18:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 8
+[11-Feb-2021 19:18:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 8
+[11-Feb-2021 19:18:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 8
+[11-Feb-2021 19:18:15 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:15 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:35 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:35 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:35 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:36 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:36 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:36 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:41 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:41 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:41 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:41 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:42 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:18:42 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 11
+[11-Feb-2021 19:22:58 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:22:58 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:22:58 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:22:59 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:26:16 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:26:16 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:26:16 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:26:16 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:26:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:26:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:26:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:26:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:26:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:26:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:29:11 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:29:11 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:29:11 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:29:11 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:29:11 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:29:12 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:29:12 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:29:12 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:30:05 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:30:05 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 13
+[11-Feb-2021 19:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_themes_support() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php:5
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\class-wp-hook.php(287): my_theme_setup('')
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-config.php(77): require_once('C:\\Users\\nacho\\...')
+#5 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-load.php(37): require_once('C:\\Users\\nacho\\...')
+#6 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\nacho\\...')
+#7 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-admin in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 5
+[11-Feb-2021 19:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_themes_support() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php:5
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\class-wp-hook.php(287): my_theme_setup('')
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-settings.php(535): do_action('after_setup_the...')
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-config.php(77): require_once('C:\\Users\\nacho\\...')
+#5 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-load.php(37): require_once('C:\\Users\\nacho\\...')
+#6 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(13): require_once('C:\\Users\\nacho\\...')
+#7 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.ph in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 5
+[11-Feb-2021 19:50:08 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[11-Feb-2021 19:50:08 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[12-Feb-2021 11:08:44 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[12-Feb-2021 11:08:44 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[12-Feb-2021 11:09:13 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[12-Feb-2021 11:09:13 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[12-Feb-2021 11:09:14 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[12-Feb-2021 11:09:14 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[12-Feb-2021 11:09:22 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[12-Feb-2021 11:09:22 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\functions.php on line 12
+[15-Feb-2021 18:21:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function echo_get_stylesheet_directory_uri() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php:8
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\nacho\\...', true, Array)
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php(1): get_header()
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\nacho\\...')
+#5 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#6 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#7 {main}
+   in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php on line 8
+[15-Feb-2021 18:25:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function echo_get_stylesheet_directory_uri() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php:8
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\nacho\\...', true, Array)
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php(1): get_header()
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\nacho\\...')
+#5 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#6 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#7 {main}
+   in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php on line 8
+[15-Feb-2021 18:30:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function echo_get_stylesheet_directory_uri() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php:8
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\nacho\\...', true, Array)
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php(1): get_header()
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\nacho\\...')
+#5 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#6 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#7 {main}
+   in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php on line 8
+[15-Feb-2021 18:30:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function echo_get_stylesheet_directory_uri() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php:8
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\nacho\\...', true, Array)
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php(1): get_header()
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\nacho\\...')
+#5 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#6 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#7 {main}
+   in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php on line 8
+[15-Feb-2021 18:30:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function echo_get_stylesheet_directory_uri() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php:8
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\nacho\\...', true, Array)
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php(1): get_header()
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\nacho\\...')
+#5 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#6 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#7 {main}
+   in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php on line 8
+[15-Feb-2021 18:34:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function echo_get_stylesheet_directory_uri() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php:8
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\nacho\\...', true, Array)
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php(1): get_header()
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\nacho\\...')
+#5 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#6 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#7 {main}
+   in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php on line 8
+[15-Feb-2021 18:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function echo_get_stylesheet_directory_uri() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php:8
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\nacho\\...', true, Array)
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php(1): get_header()
+#4 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\nacho\\...')
+#5 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#6 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#7 {main}
+   in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\header.php on line 8
+[16-Feb-2021 17:19:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 66
+[16-Feb-2021 17:43:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:53
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 53
+[16-Feb-2021 17:43:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:53
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 53
+[16-Feb-2021 17:43:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:53
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 53
+[16-Feb-2021 17:47:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[16-Feb-2021 17:47:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[16-Feb-2021 17:47:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[16-Feb-2021 17:48:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[16-Feb-2021 17:48:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[16-Feb-2021 17:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[16-Feb-2021 17:54:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[16-Feb-2021 17:54:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[16-Feb-2021 17:54:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
