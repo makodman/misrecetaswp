@@ -299,3 +299,24 @@ Stack trace:
 #2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
 #3 {main}
   thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[17-Feb-2021 11:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[17-Feb-2021 11:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[17-Feb-2021 11:19:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_cotegory() in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php:55
+Stack trace:
+#0 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-blog-header.php(19): require_once('C:\\Users\\nacho\\...')
+#2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
+#3 {main}
+  thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55

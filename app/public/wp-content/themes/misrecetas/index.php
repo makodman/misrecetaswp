@@ -33,34 +33,22 @@
 <?php endif; ?>
 
             <aside class="col-desk-3 col-tab-4 col-mob-12">
-
-            <?php
-                $args = array (
-                    'posts_per_page' => 3,
-                    'post_status' => 'publish',
-                    'post_type' => 'post',
-                );
-                $the_query = new WP_Query($args);
-            ?>
-
-            <?php if ( $the_query->have_posts() ): ?>
-
                 <h2 class="head-strong font-large txt-center mb05">Menu del dia</h2>
                 <div class="bg-dark pd-1 rounded">
                     <div class="grid">
 
-                    <?php while($the_query->have_posts()): $the_query->the_post(); ?>
+                        <?php $menu_del_dia = get_field ('menu_del_dia', get_page_by_path('menu-del-dia')-> ID); ?>
+                        <?php if ($menu_del_dia): ?>
+                            <?php foreach ($menu_del_dia as $post): setup_postdata($post); ?>
+                                <div class="col-mob-4 mb-1">
+                                    <h3 class="font-small mb05 head-strong txt-center head-clr"><?php the_category() ?></h3>
+                                    <img class="img-med rounded" src="<?php echo get_the_post_thumbnail_url(false, 'medium-large'); ?>">
+                                </div>
+                            <?php endforeach; ?>
+                        <?php endif; ?>    
 
-                        <div class="col-mob-4 mb-1">
-                            <h3 class="font-small mb05 head-strong txt-center head-clr"><?php the_cotegory() ?></h3>
-                            <img class="img-med rounded" src="<?php echo get_the_post_thumbnail_url(false, 'medium-large'); ?>">
-                        </div>
-
-                    <?php endwhile; ?>
-                       
                     </div>
                 </div>
-                <?php endif; ?>
             </aside>
         </main>
 
