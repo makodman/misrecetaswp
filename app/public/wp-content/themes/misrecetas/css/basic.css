@@ -5,7 +5,7 @@
 
 body {
     overflow-x: hidden;
-    background-image: url(/_resources/cook.jpg);
+    background-image: url('http://misrecetaswp.local/wp-content/themes/misrecetas/images/cook.jpg');
     background-size: cover;
 }
 

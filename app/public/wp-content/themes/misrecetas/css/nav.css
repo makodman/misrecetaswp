@@ -27,3 +27,31 @@
     color: #ccc;
     pointer-events: none;
 }
+
+/*nav pagination*/ 
+
+.nav-pag .page-numbers {
+    margin-right: .5em;
+}
+
+.nav-pag span.separator {
+    margin-left: .5em;
+    color: #ccc
+}
+
+.nav-pag span.page-numbers {
+    color:#B0786E;
+}
+
+.nav-pag a:hover {
+    text-decoration: underline;
+}
+
+.nav-pag a:hover span {
+    display:inline-block;
+    text-decoration: none;  
+}
+
+.nav-pag a:nth-last-child(2) span {
+    display: none;
+}

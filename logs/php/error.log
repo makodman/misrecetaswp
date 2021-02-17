@@ -320,3 +320,7 @@ Stack trace:
 #2 C:\Users\nacho\Local Sites\misrecetaswp\app\public\index.php(17): require('C:\\Users\\nacho\\...')
 #3 {main}
   thrown in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\index.php on line 55
+[17-Feb-2021 16:23:52 UTC] PHP Parse error:  syntax error, unexpected ''medium'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\recetas.php on line 25
+[17-Feb-2021 16:40:25 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\single.php on line 20
+[17-Feb-2021 16:40:40 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\single.php on line 20
+[17-Feb-2021 16:41:59 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' in C:\Users\nacho\Local Sites\misrecetaswp\app\public\wp-content\themes\misrecetas\single.php on line 20

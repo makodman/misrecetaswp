@@ -15,18 +15,18 @@
             
             <section class="separator-block col-desk-9 col-tab-8 col-mob-12">
                 <div class="bg-dark pd-1 rounded">
-                <div class="grid">
+                    <div class="grid">
 
-                <?php while($the_query->have_posts()): $the_query->the_post(); ?>
+                        <?php while($the_query->have_posts()): $the_query->the_post(); ?>
 
-                    <div class="col-desk-6 col-tab-6 mb-2">
-                        <h2 class="head-strong txt-center mb05 head-clr"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
-                        <a href="<?php the_permalink(); ?>"><img class="img-med rounded" src="<?php echo get_the_post_thumbnail_url(false, 'medium-large'); ?>"></a>
-                    </div>
+                            <div class="col-desk-6 col-tab-6 mb-2">
+                                <h2 class="head-strong txt-center mb05 head-clr"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
+                                <a href="<?php the_permalink(); ?>"><img class="img-med rounded" src="<?php echo get_the_post_thumbnail_url(false, 'medium-large'); ?>"></a>
+                            </div>
 
-                <?php endwhile;wp_reset_postdata(); ?>
+                        <?php endwhile;wp_reset_postdata(); ?>
 
-                </div>  
+                    </div>  
                 </div>
             </section>
 
