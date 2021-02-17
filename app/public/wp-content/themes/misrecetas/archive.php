@@ -1,22 +1,10 @@
-<?php /* Template name: recetas */ ?> 
-
 <?php get_header(); ?>
 
 <main>
 
-    <?php
-        $args = array (
-            'posts_per_page' => 2,
-            'post_status' => 'publish',
-            'post_type' => 'post',
-            'paged' => $paged
-        );
-        $the_query = new WP_Query($args);
-    ?>
+    <h1 class="head-strong mb-2"><?php echo get_the_archive_title(); ?></h1>
 
-    <?php if ( $the_query->have_posts() ): ?>
-
-        <?php while($the_query->have_posts()): $the_query->the_post(); ?>
+    <?php if (have_posts()) : while (have_posts()): the_post(); ?>
 
             <article class="mb-3">
                 <h2 class="head-strong mb05 font-md"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
@@ -36,15 +24,13 @@
                 </div>
             </article>
 
-        <?php endwhile;wp_reset_postdata(); ?>
+            <?php endwhile; ?>
 
         <nav class="nav-pag font-md block-center-row mb-2">
 
             <?php
                 echo paginate_links(
                     array(
-                        'current' => max(1, $paged),
-                        'total' => $the_query->max_num_pages,
                         'show_all' => true,
                         'prev_text' => '<',
                         'next_text' => '>',
@@ -54,12 +40,9 @@
             ?>
             </nav>
 
-    <?php else: ?>
-        <div>Not found</div>  
-
-    <?php endif; ?>
+        <?php endif; ?>
 
 
 </main>
 
-<?php get_footer(); ?>         
+<?php get_footer(); ?>

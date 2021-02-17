@@ -10,3 +10,6 @@
     border-radius: 10px;
 }
 
+.border-light {
+    border: 2px solid #aaa;
+}
